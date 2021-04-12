@@ -7,9 +7,9 @@
     {"matricula":"2021010168", "nome":"Roberto Breno Novaes", "tipo":"UFERSA"},
     {"matricula":"2021010269", "nome":"Caleb Henrique Costa", "tipo":"UFERSA"},
     {"matricula":"2021010270", "nome":"Mateus Antonio Bernardes", "tipo":"UFERSA"},
-    {"matricula":"2021010271", "nome":"Luan Elias Manuel Nogueira", "tipo":"UFERSA"},
-    {"matricula":"2021010272", "nome":"Marcos Iago Farias", "tipo":"UFERSA"},
-    {"matricula":"2021010273", "nome":"Breno Enrico Fogaça", "tipo":"UFERSA"}
+    {"matricula":"2021010271", "nome":"Luan Elias Manuel Nogueira", "tipo":"PROAE"},
+    {"matricula":"2021010272", "nome":"Marcos Iago Farias", "tipo":"PROAE"},
+    {"matricula":"2021010273", "nome":"Breno Enrico Fogaça", "tipo":"PROAE"}
     ],
   "gestores": [
     {"matricula":"20210180", "nome":"Murilo Osvaldo Fogaça"},
