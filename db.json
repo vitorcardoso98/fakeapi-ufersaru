@@ -1,15 +1,15 @@
 {
   "alunos": [
-    {"matricula":"2021010164", "nome":"Noah Leonardo Victor Oliveira", "tipo":"UFERSA"},
-    {"matricula":"2021010165", "nome":"Esther Renata da Silva", "tipo":"UFERSA"},
-    {"matricula":"2021010166", "nome":"Evelyn Clarice Baptista", "tipo":"UFERSA"},
-    {"matricula":"2021010167", "nome":"Kauê José Brito", "tipo":"UFERSA"},
-    {"matricula":"2021010168", "nome":"Roberto Breno Novaes", "tipo":"UFERSA"},
-    {"matricula":"2021010269", "nome":"Caleb Henrique Costa", "tipo":"UFERSA"},
-    {"matricula":"2021010270", "nome":"Mateus Antonio Bernardes", "tipo":"UFERSA"},
-    {"matricula":"2021010271", "nome":"Luan Elias Manuel Nogueira", "tipo":"PROAE"},
-    {"matricula":"2021010272", "nome":"Marcos Iago Farias", "tipo":"PROAE"},
-    {"matricula":"2021010273", "nome":"Breno Enrico Fogaça", "tipo":"PROAE"}
+    {"matricula":"2021010164", "nome":"Noah Leonardo Victor Oliveira", "tipo":"UFERSA", "status":"ATIVO"},
+    {"matricula":"2021010165", "nome":"Esther Renata da Silva", "tipo":"UFERSA", "status":"ATIVO"},
+    {"matricula":"2021010166", "nome":"Evelyn Clarice Baptista", "tipo":"UFERSA", "status":"ATIVO"},
+    {"matricula":"2021010167", "nome":"Kauê José Brito", "tipo":"UFERSA", "status":"ATIVO"},
+    {"matricula":"2021010168", "nome":"Roberto Breno Novaes", "tipo":"UFERSA", "status":"ATIVO"},
+    {"matricula":"2021010269", "nome":"Caleb Henrique Costa", "tipo":"UFERSA", "status":"ATIVO"},
+    {"matricula":"2021010270", "nome":"Mateus Antonio Bernardes", "tipo":"UFERSA", "status":"ATIVO"},
+    {"matricula":"2021010271", "nome":"Luan Elias Manuel Nogueira", "tipo":"PROAE", "status":"ATIVO"},
+    {"matricula":"2021010272", "nome":"Marcos Iago Farias", "tipo":"PROAE", "status":"ATIVO"},
+    {"matricula":"2021010273", "nome":"Breno Enrico Fogaça", "tipo":"PROAE", "status":"ATIVO"}
     ],
   "gestores": [
     {"matricula":"20210180", "nome":"Murilo Osvaldo Fogaça"},
