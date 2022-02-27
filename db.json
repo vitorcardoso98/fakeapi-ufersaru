@@ -1,6 +1,6 @@
 {
   "alunos": [
-    {"matricula":"2021010164", "nome":"Noah Leonardo Victor Oliveira", "tipo":"UFERSA", "status":"ATIVO"},
+    {"matricula":"2021010164", "nome":"Noah Leonardo Victor Oliveira", "tipo":"UFERSA", "status":"INATIVO"},
     {"matricula":"2021010165", "nome":"Esther Renata da Silva", "tipo":"UFERSA", "status":"ATIVO"},
     {"matricula":"2021010166", "nome":"Evelyn Clarice Baptista", "tipo":"UFERSA", "status":"ATIVO"},
     {"matricula":"2021010167", "nome":"Kauê José Brito", "tipo":"UFERSA", "status":"ATIVO"},
