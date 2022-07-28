@@ -10,7 +10,7 @@
     {"matricula":"2021010271", "nome":"Luan Elias Manuel Nogueira", "tipo":"PROAE", "status":"ATIVO"},
     {"matricula":"2021010272", "nome":"Marcos Iago Farias", "tipo":"PROAE", "status":"ATIVO"},
     {"matricula":"2021010273", "nome":"Breno Enrico Fogaça", "tipo":"PROAE", "status":"INATIVO"},
-    {"matricula":"2021010289", "nome":"Leandro CEEP", "tipo":"PROAE", "status":"ATIVO"}
+    {"matricula":"2021010235", "nome":"Leandro CEEP", "tipo":"PROAE", "status":"ATIVO"}
     ],
   "gestores": [
     {"matricula":"20210180", "nome":"Murilo Osvaldo Fogaça"},
