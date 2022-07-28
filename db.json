@@ -9,7 +9,8 @@
     {"matricula":"2021010270", "nome":"Mateus Antonio Bernardes", "tipo":"UFERSA", "status":"ATIVO"},
     {"matricula":"2021010271", "nome":"Luan Elias Manuel Nogueira", "tipo":"PROAE", "status":"ATIVO"},
     {"matricula":"2021010272", "nome":"Marcos Iago Farias", "tipo":"PROAE", "status":"ATIVO"},
-    {"matricula":"2021010273", "nome":"Breno Enrico Fogaça", "tipo":"PROAE", "status":"INATIVO"}
+    {"matricula":"2021010273", "nome":"Breno Enrico Fogaça", "tipo":"PROAE", "status":"INATIVO"},
+    {"matricula":"2021010289", "nome":"Breno Enrico Fogaça", "tipo":"PROAE", "status":"ATIVO"}
     ],
   "gestores": [
     {"matricula":"20210180", "nome":"Murilo Osvaldo Fogaça"},
